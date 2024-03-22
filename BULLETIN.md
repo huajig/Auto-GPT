@@ -8,7 +8,7 @@ Since releasing v0.3.0, whave been working on re-architecting the Auto-GPT core 
 Check out the contribution guide on our wiki:
 https://github.com/Significant-Gravitas/Auto-GPT/wiki/Contributing
 
-# 🚀 v0.4.3 Release 🚀
+# 🚀 v0.5 Release 🚀
 We're happy to announce the 0.4.3 maintenance release, which primarily focuses on refining the LLM command execution,
 extending support for OpenAI's latest models (including the powerful GPT-3 16k model), and laying the groundwork 
 for future compatibility with OpenAI's function calling feature.
